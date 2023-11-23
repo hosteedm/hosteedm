@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Susan 
 - 👀 I’m interested in creating user-friendly and aesthetically pleasing websites for small businesses.
-- 🌱 I’m a self-taught front-end engineer using Codecademy and Mimo as learning tools.
+- 🌱 I’m a self-taught full-stack engineer using Codecademy and Udemy as learning tools.
 - 🧠 I've learned PHP and WordPress Development through WP Rockstar and Udemy classes.
 - 👩‍💻 I regularly volunteer for 48in48.org building websites for not-for-profit organizations.  
 - 📈 I have gained Squarespace skills via Squarespace Secrets online courses.
